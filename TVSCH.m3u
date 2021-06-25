@@ -12,3 +12,7 @@ https://m2j3tv8e8t.azcdn728.net:8443/hls/9x6plau.m3u8?s=B_CwiF0Uhxkles0i3sA-iw&e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",DirecTv
 https://m2j3tv8e8t.azcdn728.net:8443/hls/utp9qmmg.m3u8?s=FiX6AyMUBl4TVsGeItnSjQ&e=1624677276
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Caracol
+https://tna5.bozztv.com/c1wrdhgdrtj/index.m3u8
