@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Teleamazonas
+http://54.39.16.47:25461/live/344070314/344070314/21491.m3u8
