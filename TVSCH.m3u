@@ -31,3 +31,7 @@ http://142.44.246.107:25461/live/528104733/528104733/22761.m3u8?token=T0QJVEZaRF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TNT
 https://m2j3tv8e8t.azcdn728.net:8443/hls/glaldsq.m3u8?s=-ntlJx5Z4yjbCXSRPSd43g&e=1625183116
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Espn2
+https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/d.m3u8
