@@ -56,3 +56,7 @@ https://5f700d5b2c46f.streamlock.net/nortvision/nortvision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Discovery Channel
 https://m2j3tv8e8t.azcdn728.net:8443/hls/8ha8ro.m3u8?s=VTkog2_PjFWK1FCf4Ph_5g&e=1625267365
+
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/backgroundarea/if0f51944c2e6cc9d/version/1479182079/image.jpg",Discovery Channel
+https://m2j3tv8e8t.azcdn728.net:8443/hls/ztv7sh.m3u8?s=QW0sn06sO3nnCafXfYWsvQ&e=1625268129
