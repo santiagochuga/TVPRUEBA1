@@ -33,6 +33,11 @@ http://142.44.246.107:25461/live/528104733/528104733/22761.m3u8?token=T0QJVEZaRF
 https://m2j3tv8e8t.azcdn728.net:8443/hls/glaldsq.m3u8?s=-ntlJx5Z4yjbCXSRPSd43g&e=1625183116
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Tc
+https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1000.m3u8?aid=5fb66f3f792ddf08270744a4&uid=cxZEzIq3GwNhaJoRGNx8NQKxHlI5r8QZ&sid=x8faF5Qmsp8vAiLNq7R4X8W2hebaFkik&pid=QKj0yquwinBDJx1xvFla8RXZAj3jQjm7&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-xy7.cdn.mdstrm.com&ote=1625320072480&ot=W4eDgRNLRc0gdsoBEj7lGA&proto=https&pz=us
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",Espn3
 https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/d.m3u8
 
